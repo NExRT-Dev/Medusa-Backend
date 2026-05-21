@@ -6,6 +6,11 @@
 yarn-error.log
 
 .idea
+.env
+.env.local
+.env.development
+.env.test
+.env.production
 
 coverage
 
